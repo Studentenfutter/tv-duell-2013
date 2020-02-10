@@ -5,7 +5,7 @@ Die nachfolgende Analyse entstand ursprünglich als Hausarbeit für den Kurs "Wi
 
 Die Analyse wurde mit [R Markdown](https://rmarkdown.rstudio.com/) und ist komplett reproduzierbar mittels des [bereitgestellten Skripts](TV-Duell_2013_Florian_Gilberg.Rmd). Hierzu müssen lediglich die Umfragedatensätze von der Website des GESIS (https://dbk.gesis.org/dbksearch/download.asp?db=E&id=56510) heruntergeladen und in den Ordner *dirSPSSFiles* gespeichert werden, da der Abruf der Dateien einen persönlichen Login erfordert und somit nicht automatisch aus R heraus erfolgen kann.
 
-Die interaktive Ansicht der [HTML-Version dieses Dokumentes](TV-Duell_2013_Florian_Gilberg.html) wird empfohlen.
+Der Download der [HTML-Version dieses Dokumentes](TV-Duell_2013_Florian_Gilberg.html) und das lokale öffnen im Browser wird empfohlen.
 
 Inhaltsverzeichnis
 =================
